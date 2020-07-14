@@ -18,7 +18,7 @@
 !!! tip "Dieses Rezept funktioniert für alle Hülsenfrüchte."
 
 ??? info "Ergibt etwa 800 g."
-    Beachten Sie, dass gekochte Hülsenfrüchte etwa das 2- bis 3-fache ihres Trockengewichts ergeben. Hier ist eine [Tabelle] (https://www.seriouseats.com/2014/04/is-there-a-ratio-for-converting-between-dried.html) für einige Bohnen.
+    Beachten Sie, dass gekochte Hülsenfrüchte etwa das 2- bis 3-fache ihres Trockengewichts ergeben. Hier ist eine [Tabelle](https://www.seriouseats.com/2014/04/is-there-a-ratio-for-converting-between-dried.html) für einige Bohnen.
 
 ??? note "Referenzliste"
     Inspiriert durch [How to Cook Everything](https://www.amazon.com/How-Cook-Everything-Recipes-Anniversary/dp/0764578650).
