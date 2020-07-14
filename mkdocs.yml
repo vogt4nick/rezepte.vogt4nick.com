@@ -1,7 +1,5 @@
 site_name: Nicks Rezepte
 docs_dir: rezepte
-nav:
-  - Home
 plugins:
   - search:
       lang:
