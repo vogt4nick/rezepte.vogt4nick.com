@@ -1,12 +1,12 @@
 === "Zutaten"
-    * 300 g, Hülsenfrüchte, gekocht, warm
+    * 300 g, Hülsenfrüchte, trocken, gekocht, warm
     * Dressing
         * 25 g, Schalotten, gehackt
         * 15 mL, Rotweinessig
         * 50 mL, Olivenöl
         * 3 mL, Koscheres Salz
         * 3 mL, Schwarzer Pfeffer
-    * Garnieren
+    * Garnierung
         * 25 g, Petersilie, frisch
 
 === "Anweisungen"
