@@ -10,7 +10,7 @@
         * 25 g, Petersilie, frisch
 
 === "Anweisungen"
-    1. **Vermengen** die Dressing-Zutaten in große Schüssel geben. Zum Kombinieren umrühren. Hülsenfrüchte hinzufügen. Leicht schwenken.
+    1. **Vermengen** Dressing-Zutaten in einer großen Schüssel. Zum Kombinieren umrühren. Hülsenfrüchte hinzufügen. Leicht schwenken.
     2. **Auf Raumtemperatur abkühlen** und alle 20 Minuten vorsichtig umrühren.
     3. **Mit frischer Petersilie garnieren und servieren**.
 
