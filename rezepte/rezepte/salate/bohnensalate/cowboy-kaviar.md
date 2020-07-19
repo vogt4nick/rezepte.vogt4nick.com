@@ -13,7 +13,7 @@
     * 150 g, Kirschtomaten, halbiert
     * 150 g, Rote Paprika, gewürfelt
     * 30 g, Jalapeño, gehacked
-    * Garnish
+    * Zur Garnierung
         * 200 g, Avocado, gewürfelt
         * 60 mL, Koriander
 

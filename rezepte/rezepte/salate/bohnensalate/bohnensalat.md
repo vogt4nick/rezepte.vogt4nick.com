@@ -6,7 +6,7 @@
         * 50 mL, Olivenöl
         * 3 mL, Koscheres Salz
         * 3 mL, Schwarzer Pfeffer
-    * Garnierung
+    * Zur Garnierung
         * 25 g, Petersilie, frisch
 
 === "Anweisungen"
