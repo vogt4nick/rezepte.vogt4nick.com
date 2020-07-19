@@ -2,6 +2,6 @@
 
 ## Suppe und Salat
 
-### [Bohnensalat (V+)](rezepte/salate/bohnensalate/bohnensalat.md)
+### [Cowboy Kaviar (V+)](rezepte/salate/bohnensalate/cowboy-kaviar.md)
 
 Bohnen. Maiskörner. Dressing.
