@@ -1,21 +1,21 @@
 === "Zutaten"
     * Dressing
-        * 100 mL, Olivenöl
-        * 50 mL, Weißweinessig
-        * 5 mL, Kosheres Salz
-        * 5 g, Knoblauch, gehackt
-        * 5 mL, Limettensaft
-        * 2 mL, Oregano, getrocknet
-        * 15 mL, Honig
-    * 400 g, Schwarzaugenbohnen
-    * 400 g, Schwarze Bohnen
-    * 400 g, Maiskörner
-    * 150 g, Kirschtomaten, halbiert
-    * 150 g, Rote Paprika, gewürfelt
-    * 30 g, Jalapeño, gehacked
-    * Zur Garnierung
-        * 200 g, Avocado, gewürfelt
-        * 60 mL, Koriander
+        * 100 ml Olivenöl
+        * 50 ml Weißweinessig
+        * 5 ml Kosheres Salz
+        * 5 g Knoblauch, gehackt
+        * 5 ml Limettensaft
+        * 2 ml Oregano, getrocknet
+        * 15 ml Honig
+    * 400 g Schwarzaugenbohnen
+    * 400 g Schwarze Bohnen
+    * 400 g Maiskörner
+    * 150 g Kirschtomaten, halbiert
+    * 150 g Rote Paprika, gewürfelt
+    * 30 g Jalapeño, gehacked
+    * Zum Garnieren
+        * 200 g Avocado, gewürfelt
+        * 60 ml Koriander
 
 === "Anweisungen"
     1. **Vermenge** die Zutaten in einer großen Schüssel.

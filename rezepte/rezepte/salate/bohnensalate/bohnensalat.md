@@ -1,13 +1,13 @@
 === "Zutaten"
-    * 300 g, Hülsenfrüchte, trocken, gekocht, warm
+    * 300 g Hülsenfrüchte, trocken, gekocht, warm
     * Dressing
-        * 25 g, Schalotten, gehackt
-        * 15 mL, Rotweinessig
-        * 50 mL, Olivenöl
-        * 3 mL, Koscheres Salz
-        * 3 mL, Schwarzer Pfeffer
-    * Zur Garnierung
-        * 25 g, Petersilie, frisch
+        * 25 g Schalotten, gehackt
+        * 15 ml Rotweinessig
+        * 50 ml Olivenöl
+        * 3 ml Koscheres Salz
+        * 3 ml Schwarzer Pfeffer
+    * Zum Garnieren
+        * 25 g Petersilie, frisch
 
 === "Anweisungen"
     1. **Vermengen** Dressing-Zutaten in einer großen Schüssel. Zum Kombinieren umrühren. Hülsenfrüchte hinzufügen. Leicht schwenken.
