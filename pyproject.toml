@@ -18,4 +18,23 @@ mkdocs-material = "^6.1.6"
 mkdocs-macros-plugin = "^0.5.0"
 
 [tool.poetry.dev-dependencies]
+commitizen = "^2.20"
 pre-commit = "^2.15"
+
+[tool.commitizen]
+name = "cz_conventional_commits"
+version = "0.0.0"
+version_files = ["pyproject.toml:version"]
+tag_format = "v$major.$minor.$patch$prerelease"
+style = [
+    ["qmark", "fg:#ff9d00 bold"],
+    ["question", "bold"],
+    ["answer", "fg:#ff9d00 bold"],
+    ["pointer", "fg:#ff9d00 bold"],
+    ["highlighted", "fg:#ff9d00 bold"],
+    ["selected", "fg:#cc5454"],
+    ["separator", "fg:#cc5454"],
+    ["instruction", ""],
+    ["text", ""],
+    ["disabled", "fg:#858585 italic"]
+]
