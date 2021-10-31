@@ -1,0 +1,48 @@
+name: Build & Deploy
+on: [push]
+
+env:
+  MKDOCS_SITE_DIR: ~/site
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - uses: Gr1N/setup-poetry@v7
+        with:
+          poetry-version: 1.1.11
+      - uses: actions/cache@v2
+        with:
+          path: ~/.cache/pypoetry/virtualenvs
+          key: ${{ runner.os }}-poetry-${{ hashFiles('poetry.lock') }}
+      - name: Install dependencies
+        run: poetry install --no-dev
+      - name: Build docs
+        run: poetry run mkdocs build --strict --site-dir ${{ env.MKDOCS_SITE_DIR }}
+      - name: Archive site
+        uses: actions/upload-artifact@master
+        with:
+          name: site
+          path: ${{ env.MKDOCS_SITE_DIR }}
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download site
+        uses: actions/download-artifact@master
+        with:
+          name: site
+          path: ${{ env.MKDOCS_SITE_DIR }}
+      - name: Deploy docs
+        run: >-
+          aws s3 sync ${{ env.MKDOCS_SITE_DIR }} s3://rezepte.vogt4nick.com
+          --delete --acl public-read --no-progress
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: ${{ secrets.AWS_REGION }}
