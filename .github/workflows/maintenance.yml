@@ -2,7 +2,9 @@ name: Weekly Maintenance
 on:
   schedule:
     - cron: "0 0 * * WED"
-  push: # for testing
+  push:
+    branches:
+      - 2021-11-01-autoupdate-dependencies
 
 env:
   MKDOCS_SITE_DIR: ~/site
