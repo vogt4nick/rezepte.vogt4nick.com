@@ -28,7 +28,7 @@ jobs:
         with:
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           commit-message: "build(poetry.lock): update build dependencies"
-          author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+          author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
           title: Update build dependencies
           body: Update the poetry.lock with the latest valid dependencies.
           reviewers: "vogt4nick"
