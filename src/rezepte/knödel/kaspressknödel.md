@@ -20,7 +20,7 @@
 
 === "Anweisungen"
     1. Die Semmelwürfel in Milch anweichen.
-    2. Die Zwiebel in der Butter glasig anrösten. Z den angeweichten Semmelwürfeln geben. Den Käse, die Eier, das Mehl, und die Gewürze untermengen. Den Teig mit Salz würzen.
+    2. Die Zwiebel in der Butter glasig anrösten. Zu den angeweichten Semmelwürfeln geben. Den Käse, die Eier, das Mehl, und die Gewürze untermengen. Den Teig mit Salz würzen.
     3. In einer Pfanne das Öl erhitzen. Teighäufchen in das heiße Fett setzen, platt drücken, und langsam goldbraun backen.
 
 ??? question "Wie kann ich dieses Gericht servieren?"
