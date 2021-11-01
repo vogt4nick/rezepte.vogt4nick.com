@@ -1,3 +1,18 @@
+## v0.3.0 (2021-11-01)
+
+### Fix
+
+- enable the alternate style of content tabs
+
+### Feat
+
+- enable light/dark mode and change color palette
+- display the date of the last git modification of a page
+
+### Refactor
+
+- remove page-level table of contents workaround
+
 ## v0.2.0 (2021-11-01)
 
 ### Feat
