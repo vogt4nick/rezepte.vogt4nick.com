@@ -42,8 +42,18 @@ theme:
     logo: material/silverware
   language: de
   palette:
-    primary: red
-    accent: red
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: In den Dunkelmodus wechseln
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      toggle:
+        icon: material/weather-night
+        name: In den Lichtmodus wechseln
   # Necessary for search to work properly
   include_search_page: false
   search_index_only: true
