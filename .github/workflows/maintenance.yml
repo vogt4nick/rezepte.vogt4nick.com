@@ -31,4 +31,4 @@ jobs:
           author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
           title: Update build dependencies
           body: Update the poetry.lock with the latest valid dependencies.
-          reviewers: "vogt4nick"
+          assignees: "vogt4nick"
