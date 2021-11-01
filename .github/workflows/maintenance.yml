@@ -9,7 +9,7 @@ env:
 
 jobs:
   update_dependencies:
-    if: ${{ github.event.pusher.name != app/github-actions  }} # for testing
+    if: ${{ github.event.pusher.name != "app/github-actions" }} # for testing
     name: Update build dependencies
     runs-on: ubuntu-latest
     steps:
