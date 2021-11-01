@@ -32,4 +32,4 @@
     Semmelknödel passen hervorragend zu Schweinsbraten, Rinderbraten und auch zu fast allen Wildgerichten.
 
 [^gutekueche]:
-    ["Semmelknödel."](https://www.gutekueche.at/klassischer-semmelknoedel-rezept-876) *Gute Kueche.* 27 Februar 2015.
+    ["Semmelknödel."](https://www.gutekueche.at/klassischer-semmelknoedel-rezept-876) *Gute Kueche.* 1 März 2015.
