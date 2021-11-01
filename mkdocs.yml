@@ -21,7 +21,7 @@ plugins:
   - macros
   - search:
       lang:
-        - en
+        - de
 site_name: dem Nick seine Rezepte
 site_url: http://rezepte.vogt4nick.com/
 theme:
@@ -34,6 +34,7 @@ theme:
     - navigation.sections
   icon:
     logo: material/silverware
+  language: de
   palette:
     primary: red
     accent: red
