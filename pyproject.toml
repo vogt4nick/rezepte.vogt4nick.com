@@ -17,6 +17,7 @@ mkdocs-awesome-pages-plugin = "^2.4"
 mkdocs-git-revision-date-localized-plugin = "^0.10"
 mkdocs-material = "^7.3"
 mkdocs-macros-plugin = "^0.5"
+mkdocs-minify-plugin = "^0.5"
 
 [tool.poetry.dev-dependencies]
 commitizen = "^2.20"
