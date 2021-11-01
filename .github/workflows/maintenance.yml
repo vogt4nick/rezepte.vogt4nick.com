@@ -9,6 +9,7 @@ env:
 
 jobs:
   update_dependencies:
+    if: ${{ github.event.pusher.name != app/github-actions  }} # for testing
     name: Update build dependencies
     runs-on: ubuntu-latest
     steps:
@@ -20,7 +21,7 @@ jobs:
         with:
           poetry-version: 1.1.11
       - name: Update build dependencies
-        run: poetry update
+        run: poetry lock
       - name: Create pull request
         uses: peter-evans/create-pull-request@v3
         with:
