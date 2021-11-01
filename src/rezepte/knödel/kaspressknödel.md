@@ -15,6 +15,8 @@
     * Zum Backen
         * 30 ml Öl
 
+    !!! info "Diese Zutaten sind für vier (4) Personen geeignet."
+
     ??? question "Darf ich andere Käse hineinfügen?"
         Mann kann auch andere Käsesorten, wie zum Beispiel Bierkäse, Gorgonzola, oder Rässkas verwendet werden, je nach Geschmack.
 
