@@ -24,5 +24,5 @@
 
 !!! tip "Mit gerösteten Kichererbsen und Fladenbrot servieren"
 
-??? abstract "Referenzliste"
-    Inspiriert durch [Smitten Kitchen](https://smittenkitchen.com/2013/01/carrot-soup-with-tahini-and-crisped-chickpeas/)
+[^dperelman]:
+    Perelman, Deb. ["Carrot soup with tahini and crisped chickpeas."](https://smittenkitchen.com/2013/01/carrot-soup-with-tahini-and-crisped-chickpeas/) *Smitten Kitchen.* 3 Januar 2013.
