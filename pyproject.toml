@@ -38,3 +38,19 @@ style = [
     ["text", ""],
     ["disabled", "fg:#858585 italic"]
 ]
+
+# [[tool.commitizen.customize.questions]]
+# type = "list"
+# name = "change_type"
+# choices = ["feature", "fix"]  # short version
+# message = "Select the type of change you are committing"
+
+# [[tool.commitizen.customize.questions]]
+# type = "input"
+# name = "message"
+# message = "Body."
+
+# [[tool.commitizen.customize.questions]]
+# type = "confirm"
+# name = "show_message"
+# message = "Do you want to add body message in commit?"
