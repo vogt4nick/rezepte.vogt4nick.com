@@ -30,7 +30,7 @@
     !!! tip "Vor dem backen die Mischung im Kühlschrank abkühlen lassen."
 
 ??? question "Wie kann ich dieses Gericht servieren?"
-    Die Kaspressknödel schmecken als Suppeneinlage, als Beilage, oder auch als Hauptgericht mit Sauerkraut. Gern werden sie auch mit grünem Salat und ein paar Radieschen serviert.
+    Die Kaspressknödel schmecken als Suppeneinlage, als Beilage, oder auch als Hauptgericht mit Sauerkraut oder [Kräuterdip](../soßen/kräuterdip.md). Gerne werden sie auch mit grünem Salat und ein paar Radieschen serviert.
 
 [^chefkoch]:
     silvi0400. ["Kaspressknödel."](https://www.chefkoch.de/rezepte/366141122128509/Kaspressknoedel.html). *Chef Koch.* 23 Juli 2015.
