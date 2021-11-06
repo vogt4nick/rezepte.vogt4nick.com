@@ -4,7 +4,7 @@ requires = ["poetry-core>=1.0.0"]
 
 [tool.poetry]
 name = "rezepte.vogt4nick.com"
-authors = ["Nick Vogt <vogt4nick@gmail.com"]
+authors = ["Nick Vogt <vogt4nick@gmail.com>"]
 description = "Dem Nick seine Rezepte."
 readme = "README.md"
 repository = "https://github.com/vogt4nick/rezepte.vogt4nick.com"
