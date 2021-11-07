@@ -1,3 +1,9 @@
+## v0.4.1 (2021-11-07)
+
+### Fix
+
+- **gemischter-salat**: correct misspelled page name
+
 ## v0.4.0 (2021-11-07)
 
 ### Fix
