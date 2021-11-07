@@ -3,7 +3,7 @@
     * 250 ml Milch
     * 5 ml Butter für die Pfanne
     * 50 g Zwiebel, fein gewürfelt
-    * 1 Eier, verquirlt
+    * 1 Ei, verquirlt
     * Zum Würzen
         * 15 ml Petersilie
         * 1 Prise Muskat
