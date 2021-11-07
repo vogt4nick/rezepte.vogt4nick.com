@@ -1,3 +1,6 @@
+---
+title: Gemischiter Salat
+---
 === "Zutaten"
     * 400 g grüner Salat, gehackt
     * 100 g Salatgurke, klein gewürfelt
@@ -19,4 +22,6 @@
     3. Den Dressing über den Salat gießen, gut umrühren, und einige Minuten ziehen lassen.
 
 [^gutekueche]:
-    ["Gemischter Salat."](https://www.gutekueche.at/gemischter-salat-rezept-6852) *Gute Kueche.*
+    ["Gemischter Salat."](https://www.gutekueche.at/gemischter-salat-rezept-6852)
+    *Gute Kueche.*
+    26 April 2015.

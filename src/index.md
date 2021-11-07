@@ -1,6 +1,6 @@
 # Menü
 
-## [Gemischtersalat](rezepte/salate/gemischtersalat.md)
+## [Gemischter Salat](rezepte/salate/gemischter-salat.md)
 
 ## [Kaiserschmarren](rezepte/süßspeisen/kaiserschmarren.md)
 

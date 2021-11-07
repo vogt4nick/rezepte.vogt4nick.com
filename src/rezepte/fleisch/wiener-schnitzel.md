@@ -27,7 +27,7 @@ title: Wiener Schnitzel
         Mit dieser Technik lässt sich die Panier besser >>soufflieren<<.[^gutekueche]
 
 ??? question "Wie kann ich dieses Gericht servieren?"
-    Dazu serviert man Petersilerdäpfel, Reis, Erdäpfelsalat oder [Gemischtersalat](../salate/gemischtersalat.md).
+    Dazu serviert man Petersilerdäpfel, Reis, Erdäpfelsalat oder [Gemischten Salat](../salate/gemischter-salat.md).
 
 [^chefkoch]:
     Sonja.
