@@ -1,3 +1,23 @@
+## v0.4.0 (2021-11-07)
+
+### Fix
+
+- **gemischter-salat**: rename gemischtersalat -> gemischter-salat; add date to citation
+- **gemischtersalat**: add gemischtersalat to menu
+- **karrotensuppe**: remove inauthentic recipe
+- **cowboy-kaviar**: remove inauthentic recipe
+- **bohnensalat**: remove inauthentic recipe
+- **kaspressknödel**: reduce cooking fats, clarify directions, and add citation
+
+### Feat
+
+- **wiener-schnitzel**: add wiener schnitzel recipe
+- **kürbissuppe**: add kürbissuppe recipe
+- **kaiserschmarren**: add kaiserschmarren recipe
+- **kräuterdip**: init kräuterdip recipe
+- add favicon
+- configure section index pages
+
 ## v0.3.0 (2021-11-01)
 
 ### Fix
