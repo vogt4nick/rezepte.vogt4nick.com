@@ -1,3 +1,9 @@
+## v0.4.2 (2021-11-07)
+
+### Fix
+
+- **semmelknödel**: fix misspellings
+
 ## v0.4.1 (2021-11-07)
 
 ### Fix
