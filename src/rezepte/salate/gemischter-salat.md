@@ -1,5 +1,5 @@
 ---
-title: Gemischiter Salat
+title: Gemischter Salat
 ---
 === "Zutaten"
     * 400 g grüner Salat, gehackt
