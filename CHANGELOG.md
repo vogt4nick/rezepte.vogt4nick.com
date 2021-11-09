@@ -1,3 +1,11 @@
+## v0.4.3 (2021-11-09)
+
+
+- fix(kürbissuppe): add servings information
+- fix(wiener-schnitzel): add servings information
+- build: customize commitizen prompt
+- docs(kräuterdip): alphabetize citations
+
 ## v0.4.2 (2021-11-07)
 
 ### Fix
