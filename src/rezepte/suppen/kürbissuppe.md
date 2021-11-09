@@ -18,6 +18,8 @@
         * Semmelwürfel
         * Zitronengras, fein gewürfelt
 
+    !!! info "Diese Zutaten sind für vier (4) Personen geeignet."
+
     !!! question "Das Zitronengras durch Schnittlauch oder Frühlingszwiebeln ersetzen."
 
 === "Anweisungen"
