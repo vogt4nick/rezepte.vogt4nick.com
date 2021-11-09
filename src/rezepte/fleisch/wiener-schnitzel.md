@@ -11,6 +11,8 @@ title: Wiener Schnitzel
     * Butterschmalz oder Öl zum Backen
     * Zitronenscheiben zum Garnieren
 
+    !!! info "Diese Zutaten sind für vier (4) Personen geeignet."
+
     !!! question "Ersatzweise kann mann auch Schwein oder Pute."
 
 === "Anweisungen"
