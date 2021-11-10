@@ -1,3 +1,9 @@
+## v0.5.0 (2021-11-10)
+
+
+- feat(petersilerdäpfel): add petersilerdäpfel recipe
+- build(poetry.lock): update build dependencies
+
 ## v0.4.3 (2021-11-09)
 
 
