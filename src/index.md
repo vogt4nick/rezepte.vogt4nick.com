@@ -1,4 +1,8 @@
-# Menü
+---
+title: Menü
+hide:
+  - navigation
+---
 
 ## [Gemischter Salat](rezepte/salate/gemischter-salat.md)
 
