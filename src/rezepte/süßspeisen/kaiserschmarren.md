@@ -38,12 +38,12 @@
     ["Omas Kaiserschmarren."](https://www.gutekueche.at/omas-kaiserschmarren-rezept-4327)
     *Gute Kueche.*
     25 Februar 2015.
-[^gutekueche_wiener]:
-    ["Wiener Kaiserschmarrn."](https://www.gutekueche.at/wiener-kaiserschmarrn-rezept-847)
-    *Gute Kueche.*
-    25 Februar 2015.
 [^wagner]:
     Wagner, Renate.
     ["Kaiserschmarren."](https://www.austria.info/de/aktivitaeten/essen-und-trinken/oesterreichische-kueche/rezepte-aus-oesterreich/kaiserschmarren)
     *austria.info.*
     13 August 2020.
+[^gutekueche_wiener]:
+    ["Wiener Kaiserschmarrn."](https://www.gutekueche.at/wiener-kaiserschmarrn-rezept-847)
+    *Gute Kueche.*
+    25 Februar 2015.
