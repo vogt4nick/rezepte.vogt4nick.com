@@ -1,4 +1,11 @@
 docs_dir: src
+extra:
+  cite:
+    bitterman_die_österreichische_küche: >-
+      Bitterman, Adi, Ingrid Pernkopf, und Renate Wagner-Wittula.
+      [*Die Österreichisch Küche*](https://www.amazon.de/dp/3222140251).
+      1. Edition.
+      Pichler Verlag in Verlagsgruppe Styria GmbH & Co. KG, 15 September 2018.
 extra_css:
   - assets/stylesheets/extra.css
 markdown_extensions:
