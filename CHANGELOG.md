@@ -1,3 +1,9 @@
+## v0.6.0 (2021-11-13)
+
+### Feat
+
+- **erdäpfelknödel**: add erdäpfelknödel recipe
+
 ## v0.5.1 (2021-11-13)
 
 ### Fix
