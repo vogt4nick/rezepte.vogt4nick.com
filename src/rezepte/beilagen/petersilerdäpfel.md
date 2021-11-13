@@ -1,17 +1,20 @@
 === "Zutaten"
-    * 750 ml Salzwasser, kalt
-    * 750 g Erdäpfel
+    * Wasser
+    * 400 g festkochende Erdäpfel
     * 30 g Butter
-    * 10 g Frische Petersilie, gehackt
     * Salz
+    * Frische Petersilie, gehackt
+
+    !!! info "Diese Zutaten sind für zwei (2) Personen geeignet."
 
 === "Zubereitung"
-    1. Kaltes Salzwasser in einem Topf gießen. Dazu Erdäpfel mit Schäle geben.
-    2. Das Wasser zum Kochen bringen. Die Erdäpfel für etwa 25 Minuten kochen.
-    3. Die fertig gekochten Erdäpfel abseihen, schälen, und vierteln.
-    4. In einer Pfanne wird Butter geschmolzen und die zuvor gehackte Petersilie darin anlaufen gelassen.
-    5. Nun kommen die Erdäpfel dazu, werden in Butter und Petersilie geschwenkt und mit Salz bestreut.
+    1. **Erdäpfel dampfen.** Erdäpfel je nach Größe ca. 20-30 Minuten weich dämpfen.
+    2. **Schälen und vierteln.** Die fertig gekochten Erdäpfel abseihen, schälen, und vierteln.
+    3. **Erdäpfel würzen.** Butter in einer Pfanne schmelzen lassen, Erdäpfel zugeben, salzen und durchschwenken. Gehackte Petersilie darüberstreuen und auftragen.
 
+[^bitterman]:
+    {{ cite.bitterman_die_österreichische_küche }}
+    133.
 [^gutekueche]:
     ["Petersilienkartoffeln."](https://www.gutekueche.at/petersilienkartoffeln-rezept-24703)
     *Gute Kueche.*
