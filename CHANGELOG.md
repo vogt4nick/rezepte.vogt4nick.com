@@ -1,4 +1,8 @@
-## Unreleased
+## v0.5.1 (2021-11-13)
+
+### Fix
+
+- **menü**: create wiener schnitzel meal
 
 ## v0.5.0 (2021-11-10)
 
