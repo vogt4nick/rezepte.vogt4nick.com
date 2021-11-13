@@ -1,3 +1,9 @@
+## v0.7.1 (2021-11-13)
+
+### Fix
+
+- **wiener-schnitzel**: update recipe with new info from Die Österreichisch Küche
+
 ## v0.7.0 (2021-11-13)
 
 ### Feat
