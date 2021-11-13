@@ -24,59 +24,7 @@ commitizen = "^2.20"
 pre-commit = "^2.15"
 
 [tool.commitizen]
-name = "cz_customize"
-version = "0.5.0"
+name = "cz_conventional_commits"
+version = "0.4.2"
 version_files = ["pyproject.toml:version"]
 tag_format = "v$major.$minor.$patch$prerelease"
-
-[tool.commitizen.customize]
-message_template = """{{ change_type }}{% if scope %}({{ scope }}){% endif %}: {{ summary }}{% if body %}
-
-{{ body }}{% endif %}{% if is_breaking_change %}
-
-BREAKING CHANGE{% endif %}
-"""
-example = "feat: this feature enable customize through config file"
-schema = "<type>: <body>"
-bump_map = {"break" = "MAJOR", "feat" = "MINOR", "fix" = "PATCH", "style" = "PATCH"}
-change_type_order = [
-    "BREAKING CHANGE",
-    "feat",
-    "fix",
-    "style",
-    "docs",
-    "build"
-]
-
-[[tool.commitizen.customize.questions]]
-type = "list"
-name = "change_type"
-choices = [
-    {value = "fix", name = "fix: A change to a recipe that doesn't fundamentally change the result."},
-    {value = "feat", name = "feat: A new recipe or a fundamental change to an existing recipe."},
-    {value = "style", name = "style: A change to the site that does not affect the meaning of the recipes."},
-    {value = "docs", name = "docs: A text fix that does not change the recipe (white-space, formatting, missing semi-colons, etc)."},
-    {value = "build", name = "build: Changes that affect the build system, CI, or external dependencies."},
-]
-message = "Select the type of change you are committing"
-
-[[tool.commitizen.customize.questions]]
-type = "input"
-name = "scope"
-message = "What is the scope of this change? (e.g. recipe filename): (press [enter] to skip)"
-
-[[tool.commitizen.customize.questions]]
-type = "input"
-name = "summary"
-message = "Write a short and imperative summary of the code changes: (lower case and no period)"
-
-[[tool.commitizen.customize.questions]]
-type = "input"
-name = "body"
-message = "Provide additional contextual information about the code changes: (press [enter] to skip)"
-
-[[tool.commitizen.customize.questions]]
-type = "confirm"
-name = "is_breaking_change"
-message = "Is this a BREAKING CHANGE? Correlates with MAJOR in SemVer"
-default = false
