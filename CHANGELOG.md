@@ -1,16 +1,17 @@
+## Unreleased
+
 ## v0.5.0 (2021-11-10)
 
+### Feat
 
-- feat(petersilerdäpfel): add petersilerdäpfel recipe
-- build(poetry.lock): update build dependencies
+- **petersilerdäpfel**: add petersilerdäpfel recipe
 
 ## v0.4.3 (2021-11-09)
 
+### Fix
 
-- fix(kürbissuppe): add servings information
-- fix(wiener-schnitzel): add servings information
-- build: customize commitizen prompt
-- docs(kräuterdip): alphabetize citations
+- **kürbissuppe**: add servings information
+- **wiener-schnitzel**: add servings information
 
 ## v0.4.2 (2021-11-07)
 
