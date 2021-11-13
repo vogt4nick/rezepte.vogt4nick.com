@@ -1,3 +1,9 @@
+## v0.7.0 (2021-11-13)
+
+### Feat
+
+- **petersilerdäpfel**: steam the potatoes and adjust portions
+
 ## v0.6.0 (2021-11-13)
 
 ### Feat
