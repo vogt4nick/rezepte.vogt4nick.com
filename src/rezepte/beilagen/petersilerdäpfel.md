@@ -5,7 +5,7 @@
     * 10 g Frische Petersilie, gehackt
     * Salz
 
-=== "Anweisungen"
+=== "Zubereitung"
     1. Kaltes Salzwasser in einem Topf gießen. Dazu Erdäpfel mit Schäle geben.
     2. Das Wasser zum Kochen bringen. Die Erdäpfel für etwa 25 Minuten kochen.
     3. Die fertig gekochten Erdäpfel abseihen, schälen, und vierteln.

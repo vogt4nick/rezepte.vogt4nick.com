@@ -20,7 +20,7 @@
     ??? question "Darf ich andere Käse hineinfügen?"
         Mann kann auch andere Käsesorten, wie zum Beispiel Bierkäse, Gorgonzola, oder Rässkas verwendet werden, je nach Geschmack.
 
-=== "Anweisungen"
+=== "Zubereitung"
     1. **Die Semmelwürfel in Milch einweichen.**
     2. **Die Mischung zusammenfügen.** Die Zwiebel in der Butter glasig anrösten. Zu den angeweichten Semmelwürfeln geben. Den Käse, die Eier, das Mehl, und die Gewürze untermengen. Den Teig mit Salz würzen.
     3. **Die Mischung braten.** In einer Pfanne das Öl erhitzen. Teighäufchen in das heiße Fett setzen, platt drücken, und langsam goldbraun backen.

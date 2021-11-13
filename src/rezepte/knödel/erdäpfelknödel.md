@@ -9,7 +9,7 @@
 
     !!! info "Diese Zutaten sind für zwei (2) Personen geeignet."
 
-=== "Anweisungen"
+=== "Zubereitung"
     1. **Die Erdäpfel kochen.** Die Erdäpfel 30 Minuten im leicht wallenden Salzwasser kochen. Das Wasser abseihen, die Kartoffeln kurz mit kaltem Wasser abschrecken.
     2. **Die Erdäpfel zerdrücken.** Die Kartoffeln anschließend durch die Erdäpfelpresse drücken. Gepresste Erdäpfel, Mehl, Grieß, Butter, Dotter, und Salz gut vermengen.
     3. **Die Knödel formen.** Knödel mit feuchten Händen formen und in einem Topf Salzwasser zum Kochen bringen bzw. leicht wallen lassen.

@@ -16,7 +16,7 @@ title: Gemischter Salat
 
     !!! info "Diese Zutaten sind für vier (4) Personen geeignet."
 
-=== "Anweisungen"
+=== "Zubereitung"
     1. Aus Öl, Essig, Senf, Salz und Pfeffer ein Dressing anrühren.
     2. Das Gemüse in eine große Schüssel geben und gut durchrühren.
     3. Den Dressing über den Salat gießen, gut umrühren, und einige Minuten ziehen lassen.

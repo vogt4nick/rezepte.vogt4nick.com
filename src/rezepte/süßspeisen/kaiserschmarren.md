@@ -18,7 +18,7 @@
 
     !!! info "Diese Zutaten sind für vier (4) Personen geeignet."
 
-=== "Anweisungen"
+=== "Zubereitung"
     1. **Backrohr auf 180ºC vorheizen.**
     2. **Die Rosinen in Rum einweichen.** Etwa 15 Minuten stehen lassen.
     3. **Teig vermengen.** Dotter verquirlen. Milch, abgeriebener Zitronenschale, Zucker, und Mehl zugeben. Zu einem glatten Teig vermengen.

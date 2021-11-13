@@ -19,7 +19,7 @@
 
     !!! tip "Anstelle von Salzwasser kann man die Knödel auch in einer klaren Suppenbrühe kochen."
 
-=== "Anweisungen"
+=== "Zubereitung"
     1. Die Milch über die Semmelscheiben gießen. Das ganze 30-45 Minuten ziehen lassen.
     2. Die Zwiebel in einer Pfanne mit etwas Butter anschwitzen.
     3. Die verschwitzte Zwiebel, die Eier, und die Gewürze mit der eingeweichten Semmelmasse unterkneten.

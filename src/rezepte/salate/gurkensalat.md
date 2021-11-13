@@ -10,7 +10,7 @@
 
     !!! info "Diese Zutaten sind für vier (4) Personen geeignet."
 
-=== "Anweisungen"
+=== "Zubereitung"
     Alle Zutaten verrühren und nochmals abschmecken. 10 Minuten ziehen lassen.
 
 [^gutekueche]:

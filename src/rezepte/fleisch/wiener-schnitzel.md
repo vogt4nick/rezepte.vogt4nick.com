@@ -15,7 +15,7 @@ title: Wiener Schnitzel
 
     !!! question "Ersatzweise kann mann auch Schwein oder Pute."
 
-=== "Anweisungen"
+=== "Zubereitung"
     1. **Stell am platz.** Mehl sowie Brösel und Eier jeweils auf einen flachen Teller geben.
     2. **Butterschmalz erhitzen.** In einer großen Pfanne so viel Butterschmalz schmelzen lassen, dass die Schnitzel gut schwimmen können.
     3. **Schnitzel vorbereiten.** Schnitzel je auf beiden Seiten mit Salz und Pfeffer würzen. Schnitzel nacheinander zuerst auf beiden Seiten in Mehl wenden, durch die Eier ziehen und dabei darauf achten, dass keine Stelle trocken bleibt. Zuletzt in den Bröseln wenden und die Panier mit der Rückseite der Gabel behutsam andrücken.

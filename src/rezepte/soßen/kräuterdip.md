@@ -11,7 +11,7 @@
 
     !!! info "Diese Zutaten sind für vier (4) Personen geeignet."
 
-=== "Anweisungen"
+=== "Zubereitung"
     Sauerrahm und senf in einer kleinen Schüssel glatt rühren. Kräuter unter die Soße rühren.
 
 [^gutekueche]:
