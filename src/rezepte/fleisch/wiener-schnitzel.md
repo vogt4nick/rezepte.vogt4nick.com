@@ -2,35 +2,41 @@
 title: Wiener Schnitzel
 ---
 === "Zutaten"
-    * 4 Kalbsschnitzel, zu je 150-180 g, allfällige Häutchen entfernen, dünn klopfen
-    * 100 g Mehl
-    * 2 Eier, verquirlt
-    * 100 g Semmelbrösel
+    * 2 Kalbsschnitzel, zu je 150-180 g, allfällige Häutchen entfernen, dünn klopfen
+    * 50 g Mehl
+    * 1 Eier, verquirlt
+    * 25 ml Schlagobers, Milch, oder Mineralwasser
+    * 50 g Semmelbrösel
     * Salz
     * Pfeffer
     * Butterschmalz oder Öl zum Backen
-    * Zitronenscheiben zum Garnieren
+    * Zum Servieren
+        * Zitronenscheiben
+        * Marmelade
 
-    !!! info "Diese Zutaten sind für vier (4) Personen geeignet."
+    !!! info "Diese Zutaten sind für zwei (2) Personen geeignet."
 
-    !!! question "Ersatzweise kann mann auch Schwein oder Pute."
+    !!! note "Ersatzweise kann mann auch Schwein oder Pute."
 
 === "Zubereitung"
-    1. **Stell am platz.** Mehl sowie Brösel und Eier jeweils auf einen flachen Teller geben.
-    2. **Butterschmalz erhitzen.** In einer großen Pfanne so viel Butterschmalz schmelzen lassen, dass die Schnitzel gut schwimmen können.
+    1. **Butterschmalz erhitzen.** In einer großen Pfanne so viel Butterschmalz schmelzen lassen, dass die Schnitzel gut schwimmen können. Dabei mittlerer Hitze erhitzen.
+    2. **Stell am platz.** Mehl sowie Semmelbrösel jeweils auf einen flachen Teller geben. Eier in einen dritten Teller schlagen und locker mit Obers verrühren.
     3. **Schnitzel vorbereiten.** Schnitzel je auf beiden Seiten mit Salz und Pfeffer würzen. Schnitzel nacheinander zuerst auf beiden Seiten in Mehl wenden, durch die Eier ziehen und dabei darauf achten, dass keine Stelle trocken bleibt. Zuletzt in den Bröseln wenden und die Panier mit der Rückseite der Gabel behutsam andrücken.
     4. **Schnitzel braten.** Schnitzel je nach Stärke und Fleischsorte ca. 5 Minuten goldbraun backen. Wenden, und auf der anderen Seite ebenfalls goldbraun backen.
     5. **Schnitzel herausheben** und auf Küchenpapier abtropfen lassen. Dabei behutsam trocken tupfen.
-    6. **Garnieren.** Servieren mit Zitronenscheiben garnieren.
+    6. **Servieren.** Damit Zitronenscheiben und Marmelade servieren.
 
     !!! info "Schnitzel erst einlegen, wenn das Fett so heiß ist, dass es zischend aufschäumt, wenn man einige Brösel oder ein kleines Stückchen Butter hineinfallen lässt."
 
     ??? question "Wozu die Panier mit der Rückseite der Gabel behutsam andrücken?"
         Mit dieser Technik lässt sich die Panier besser >>soufflieren<<.[^gutekueche]
 
-??? question "Wie kann ich dieses Gericht servieren?"
-    Dazu serviert man [Petersilerdäpfel](../beilagen/petersilerdäpfel.md), Reis, Erdäpfelsalat oder [Gemischten Salat](../salate/gemischter-salat.md).
+???+ quote "Der besondere Tipp von *Die Österreichisch Küche*.[^bitterman]"
+    Das Herausbacken in Butterschmalz verleiht den Schnitzeln den ganz typischen leicht nussigen Geschamck. Werden die Schnitzerl in neutralem Pflanzeöl gebacken, so kann man dem Öl gegen Ende ein kleines Stück Butter zugeben und die Schnitzerl damit nochmals begießen oder Sie träufeln vor dem Servieren etwas zerlassene Butter direkt über die Schnitzel.
 
+[^bitterman]:
+    {{ cite.bitterman_die_österreichische_küche }}
+    243.
 [^chefkoch]:
     Sonja.
     ["Das echte Wiener Schnitzel."](https://www.chefkoch.de/rezepte/87975334071/Das-echte-Wiener-Schnitzel.html)
