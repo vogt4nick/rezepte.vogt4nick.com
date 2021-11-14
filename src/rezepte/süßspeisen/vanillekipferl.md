@@ -7,6 +7,8 @@
     * 1 Prise Salz
     * gesiebter Staubzucker vermischt mit Vanillezucker zum Bestreuen
 
+    !!! info "Diese Zutaten ergeben zwölf (12) Kipferl."
+
     !!! note "Ersatzweise kann mann auch Walnüsse gemischt mit Haselnüssen."
 
 === "Zubereitung"
