@@ -4,8 +4,9 @@ hide:
   - navigation
 ---
 
-
 ## [Kaiserschmarren](rezepte/süßspeisen/kaiserschmarren.md)
+
+## [Kaspressknödel](rezepte/knödel/kaspressknödel.md)
 
 ## [Kürbissuppe](rezepte/suppen/kürbissuppe.md)
 
