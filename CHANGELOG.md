@@ -1,3 +1,9 @@
+## v0.8.0 (2021-11-14)
+
+### Feat
+
+- **kaspressknödel**: change proportions to make a more authentic, "bready" kaspressknödel
+
 ## v0.7.1 (2021-11-13)
 
 ### Fix
