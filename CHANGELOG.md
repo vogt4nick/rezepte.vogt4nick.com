@@ -1,3 +1,9 @@
+## v0.9.1 (2021-11-14)
+
+### Fix
+
+- **vanillekipferl**: add servings callout
+
 ## v0.9.0 (2021-11-14)
 
 ### Feat
