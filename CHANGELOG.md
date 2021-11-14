@@ -1,3 +1,9 @@
+## v0.9.0 (2021-11-14)
+
+### Feat
+
+- **vanillekipferl**: add vanillekipferl recipe
+
 ## v0.8.1 (2021-11-14)
 
 ### Fix
