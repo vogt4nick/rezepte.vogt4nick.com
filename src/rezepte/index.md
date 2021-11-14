@@ -1,4 +1,5 @@
 ---
-title: Einführung
+title: Rezepte
 ---
-Alle unsere Rezepte an einem Ort.
+
+Dieses Online-Kochbuch enthält, was ich über die österreichische Küche gelernt habe, sowohl aus Restaurants und Büchern als auch von Freunden und Kollegen.
