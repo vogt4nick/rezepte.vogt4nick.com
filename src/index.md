@@ -8,6 +8,8 @@ hide:
 
 ## [Kaspressknödel](rezepte/knödel/kaspressknödel.md)
 
+Serviert in Gemüsebrühe.
+
 ## [Kürbissuppe](rezepte/suppen/kürbissuppe.md)
 
 ## [Wiener Schnitzel](rezepte/fleisch/wiener-schnitzel.md)
