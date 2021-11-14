@@ -1,3 +1,9 @@
+## v0.8.1 (2021-11-14)
+
+### Fix
+
+- **menü**: add serving information to kaspressknödel
+
 ## v0.8.0 (2021-11-14)
 
 ### Feat
