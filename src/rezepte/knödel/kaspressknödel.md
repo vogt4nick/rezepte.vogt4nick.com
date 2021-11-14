@@ -32,9 +32,14 @@
 ??? question "Wie kann ich dieses Gericht servieren?"
     Die Kaspressknödel schmecken als Suppeneinlage, als Beilage, oder auch als Hauptgericht mit Sauerkraut oder [Kräuterdip](../soßen/kräuterdip.md). Gerne werden sie auch mit grünem Salat und ein paar Radieschen serviert.
 
-[^chefkoch]:
-    silvi0400. ["Kaspressknödel."](https://www.chefkoch.de/rezepte/366141122128509/Kaspressknoedel.html). *Chef Koch.* 23 Juli 2015.
-[^gutekueche]:
-    ["Kaspressknödel."](https://www.gutekueche.at/kaspressknoedel-rezept-2152) *Gute Kueche.* 27 Februar 2015.
 [^thack]:
     Hack, Thomas.
+[^gutekueche]:
+    ["Kaspressknödel."](https://www.gutekueche.at/kaspressknoedel-rezept-2152)
+    *Gute Kueche.*
+    27 Februar 2015.
+[^chefkoch]:
+    silvi0400.
+    ["Kaspressknödel."](https://www.chefkoch.de/rezepte/366141122128509/Kaspressknoedel.html).
+    *Chef Koch.*
+    23 Juli 2015.
