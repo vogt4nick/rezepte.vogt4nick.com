@@ -1,3 +1,11 @@
+## v21.10.0 (2021-11-21)
+
+### Feat
+
+- **linzer-torte**: add linzer torte recipe
+
+## v21.9.3 (2021-11-20)
+
 ## v0.9.2 (2021-11-15)
 
 ### Fix
